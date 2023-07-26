@@ -2,9 +2,9 @@ package chapter3_desicions;
 
 import java.util.Scanner;
 
-public class LoadQualifier {
+public class LoanQualifier {
 
-    public static void main (String args[]) {
+    public static void main (String[] args) {
 
         int baseSalary = 30000;
         int serviceYears = 2;
